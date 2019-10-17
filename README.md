@@ -1,0 +1,2 @@
+# readme
+Training in programming
